@@ -86,3 +86,7 @@ file:///etc/sysconfig/network
 file:///etc/network/interfaces
 file:///proc/version
 file:///etc/os-release
+localhost:80
+localhost:8080
+localhost:8000
+localhost:443
